@@ -1,0 +1,17 @@
+{
+  "name": "Templates plugin",
+  "description": "Custom templates plugin",
+  "version": "1.0.0",
+  "author": "Roopesh Saravanan",
+  "repository": "https://github.com/roopeshsn/monokle-templates-plugin",
+  "monoklePlugin": {
+    "id": "com.github.roopeshsn.plugin.templates",
+    "helpUrl": "https://github.com/roopeshsn/monokle-templates-plugin",
+    "modules": [
+      {
+        "type": "template",
+        "path": "basic-pod-template"
+      }
+    ]
+  }
+}
